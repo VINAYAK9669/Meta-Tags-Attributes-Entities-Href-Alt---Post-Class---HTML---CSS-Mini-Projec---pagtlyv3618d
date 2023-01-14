@@ -16,6 +16,10 @@ there own diet thorought the year.
 ## 🛠 Skills
 Javascript, HTML, CSS
 
+## Hosted Project Link
+
+https://gleeful-dusk-675b84.netlify.app/
+
 
 
 
