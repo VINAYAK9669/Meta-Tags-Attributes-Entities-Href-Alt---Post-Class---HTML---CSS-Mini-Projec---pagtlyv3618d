@@ -10,11 +10,13 @@ there own diet thorought the year.
 - Better Visual Effects
 - Implemented-smooth scrolling & sticky bar
 - Supported to any browsers (Chrome, Edge, Safari....) (latest version)
-- Supported to any devices ( mobies, talets, mini laptop, laptops)
+- Supported to any devices ( mobiles, tablets, mini laptop, laptops)
 - Taken care of image quality and color contrast ratio
 
 ## 🛠 Skills
 Javascript, HTML, CSS
+
+
 
 
 
