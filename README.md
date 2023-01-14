@@ -1,4 +1,5 @@
 # OminiFood
+
 Healthy foods assist a person in enhancing the physical 
 and mental well-being. These foods are full of nourishment 
 and enhance growth. But now a days we are not concentrating 
@@ -18,7 +19,7 @@ Javascript, HTML, CSS
 
 ## Hosted Project Link
 
-https://gleeful-dusk-675b84.netlify.app/
+https://zippy-hamster-dbabc9.netlify.app/
 
 
 
